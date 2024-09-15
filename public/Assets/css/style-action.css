@@ -1,0 +1,120 @@
+ /* body {
+            padding-top: 3.5rem;
+            background: linear-gradient(180deg, #f5f7fa, #c3cfe2);
+            font-family: 'Arial', sans-serif;
+        }
+
+        .navbar {
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+        }
+
+        .logo {
+            height: 40px;
+            margin-right: 10px;
+        }
+
+        .jumbotron {
+            background-color: #ffffff;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .display-center {
+            display: flex;
+            align-items: center;
+        }
+
+        .btn-join, .btn-create {
+            border-radius: 30px;
+            padding: 10px 20px;
+            font-size: 18px;
+            font-weight: bold;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+        }
+
+        .btn-join {
+            background-color: #007bff;
+            color: #ffffff;
+            border: 2px solid #007bff;
+        }
+
+        .btn-create {
+            background-color: #28a745;
+            color: #ffffff;
+            border: 2px solid #28a745;
+        }
+
+        .btn-join:hover, .btn-create:hover {
+            background-color: #0056b3;
+            color: #ffffff;
+            transform: translateY(-2px);
+        }
+
+        .btn-join:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+        .btn-create:hover {
+            background-color: #218838;
+            border-color: #218838;
+        }
+
+        .sign-in-image {
+            max-width: 100%;
+            border-radius: 10px;
+            height: auto;
+            max-height: 400px;
+        }
+
+        .input-group .form-control {
+            border-radius: 30px;
+            padding: 10px 20px;
+        }
+
+        footer {
+            margin-top: 2rem;
+            text-align: center;
+            color: #6c757d;
+        }
+
+        @media (max-width: 768px) {
+            .jumbotron {
+                flex-direction: column;
+            }
+
+            .container.w-50 {
+                width: 100% !important;
+            }
+
+            .btn-join, .btn-create {
+                width: 100%;
+                margin-bottom: 10px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .navbar-brand {
+                font-size: 1.2rem;
+            }
+
+            .btn-join, .btn-create {
+                font-size: 16px;
+                padding: 8px 16px;
+            }
+
+            .jumbotron {
+                padding: 1.5rem;
+            }
+
+            .sign-in-image {
+                max-height: 300px;
+            }
+        } */
